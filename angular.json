@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "WhiskyManWeb": {
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "WhiskyManWeb"
+    }
+  },
+  "defaultProject": "WhiskyManWeb",
+  "cli": {
+    "analytics": "4b0846e2-8a25-48d7-9a93-209885961e11"
+  }
 }
